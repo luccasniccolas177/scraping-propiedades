@@ -46,4 +46,6 @@ func main() {
 	})
 
 	c.Visit("https://chilepropiedades.cl/propiedades/venta/casa/region-metropolitana-de-santiago-rm/0")
+
+	fmt.Println("adios")
 }
