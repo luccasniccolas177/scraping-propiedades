@@ -26,7 +26,7 @@ func (p Propiedad) PrintInfo() {
 	fmt.Println("Valor UF:", p.ValorUF)
 	fmt.Println("Numero De Habitaciones:", p.NumeroDeHabitaciones)
 	fmt.Println("Numero De Banos:", p.NumeroDeBanos)
-	fmt.Println("Numero De Estacinamiento:", p.NumeroDeEstacinamiento)
+	fmt.Println("Numero De Estacionamientos:", p.NumeroDeEstacinamiento)
 	fmt.Println("Superficie Total:", p.SuperficieTotal)
 	fmt.Println("Superficie Construida:", p.SuperficieConstruida)
 	fmt.Println("Fecha Construccion:", p.FechaConstruccion)
